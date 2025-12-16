@@ -39,8 +39,8 @@ From **idea → architecture → production**, we build systems that last.
 
 **Backend**
 
-* Go, Java, Node.js, PHP
-* Echo, Gin, Spring Boot, Laravel
+* Go, Java, JS/TS, PHP
+* Echo, Fiber, Spring Boot, Laravel
 
 **Databases**
 
